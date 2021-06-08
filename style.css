@@ -1,5 +1,10 @@
 h1 {
-    color: brown;
+    color: red;
     margin: 50px;
     
+}
+
+ul {
+    list-style: none;
+    color: aqua;
 }
