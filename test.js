@@ -6,3 +6,4 @@ const logPrint = (a) => {
     return "help";
 }
 logPrint('1');
+//after detached
