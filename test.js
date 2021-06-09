@@ -5,4 +5,4 @@ const logPrint = (a) => {
     }
     return "help";
 }
-logPrint('d');
+logPrint('1');
